@@ -1,0 +1,19 @@
+* {
+  background-color: black;
+}
+
+.test {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.segment {
+  display: inline-block;
+  background-color: #333;
+  color: #fff;
+  font-size: 2em;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+}
